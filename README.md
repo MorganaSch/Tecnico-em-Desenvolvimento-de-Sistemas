@@ -25,10 +25,15 @@ Ao final do curso, o profissional estará apto a atuar no desenvolvimento de sis
 
 ## 🕓 Horários e Locais de Aula
 
+Colégio Estadual Frederico Jaime 
 | Dia         | Período  | Local                                            | Horário               |
 |-------------|----------|--------------------------------------------------|-----------------------|
 | **Segunda** | Manhã    | Colégio Estadual Frederico Jaime                 | 07:00 às 12:20        |
 | **Terça**   | Manhã    | SENAI                                            | 07:00 às 12:20        |
+
+Colégio Estadual Frederico Jaime 
+| Dia         | Período  | Local                                            | Horário               |
+|-------------|----------|--------------------------------------------------|-----------------------|
 | **Segunda** | Tarde    | Colégio Estadual Miltes Furquim                  | 13:00 às 18:20        |
 | **Terça**   | Tarde    | SENAI                                            | 13:00 às 18:20        |
 
