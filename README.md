@@ -23,6 +23,15 @@ Ao final do curso, o profissional estará apto a atuar no desenvolvimento de sis
 ### 🔸 Projeto de Vida
 ### 🔸 Saúde, Segurança no Trabalho e Sustentabilidade
 
+## 🕓 Horários e Locais de Aula
+
+| Dia         | Período  | Local                                            | Horário               |
+|-------------|----------|--------------------------------------------------|-----------------------|
+| **Segunda** | Manhã    | Colégio Estadual Frederico Jaime                 | 07:00 às 12:20        |
+| **Terça**   | Manhã    | SENAI                                            | 07:00 às 12:20        |
+| **Segunda** | Tarde    | Colégio Estadual Miltes Furquim                  | 13:00 às 18:20        |
+| **Terça**   | Tarde    | SENAI                                            | 13:00 às 18:20        |
+
 ## 🤖 Competências Desenvolvidas
 
 - Análise de requisitos e desenvolvimento de sistemas.
